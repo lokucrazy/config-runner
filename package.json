@@ -1,6 +1,6 @@
 {
   "name": "config-runner",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "run multiple configs to a cli",
   "main": "index.js",
   "scripts": {

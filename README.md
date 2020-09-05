@@ -1,4 +1,6 @@
 # Config Runner
+version: 1.0.0
+
 this is an npm tool to help me run multiple configs for webpack or rollup.  Sometimes with projects I have mutltiple config files for separate parts so I wrote this to help.
 
 install via npm

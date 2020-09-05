@@ -7,6 +7,8 @@ install via npm
 run passing in the cli used and the configs
 `npx config-runner webpack first.config.js second.config.js ...`
 
+if you don't provide configs it will look for a `./configs` directory
+
 do note that configs need to match the following regex
 `[A-Za-z]+\.config\.js$`
 or they will fail
